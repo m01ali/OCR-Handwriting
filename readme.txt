@@ -68,4 +68,4 @@ This project is a handwritten text recognition application that allows users to 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
