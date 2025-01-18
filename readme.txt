@@ -16,7 +16,7 @@ This project is a handwritten text recognition application that allows users to 
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/m01ali/OCR-Handwriting.git>
     cd <repository-directory>
     ```
 
